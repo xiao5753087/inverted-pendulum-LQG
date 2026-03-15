@@ -23,7 +23,7 @@ State vector: `x = [p, ṗ, θ, θ̇]`
 
 ## Dependencies
 
-- MATLAB R2021a or later
+- MATLAB R2025b
 - Control System Toolbox (`lqr`, `care`)
 
 ## Usage
@@ -42,4 +42,4 @@ Run `LQG_practice.m` directly in MATLAB. The simulation will animate the cart-po
 
 ## Author
 
-Yuxiao [你的姓] — Electrical Engineering, UNSW Sydney
+Xiao — Electrical Engineering, UNSW Sydney
